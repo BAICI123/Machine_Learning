@@ -1,0 +1,1 @@
+机器学习，logistics回归和softmax回归算法实现和应用，SVM调用相关库来应用。
